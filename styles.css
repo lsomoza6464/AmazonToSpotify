@@ -1,0 +1,24 @@
+#mainTitle {
+    background-color: transparent;
+    outline-color: transparent;
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+    position:fixed;
+    top: 10%;
+    border-color: transparent;
+ }
+
+#amazonLoginButton {
+    font-size: 30px;
+    width: 30%;
+    position: fixed;
+    top: 30%;
+    left: 35%;
+    background-color: aqua;
+}
+
+body {
+    background-image: url("websiteImages/vecteezy_abstract-blue-fluid-wave-background_17798503.jpg");
+}
+
